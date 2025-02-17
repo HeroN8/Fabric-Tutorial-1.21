@@ -1,4 +1,9 @@
 {
   "item.tutorialmod.indigo_sapphire": "Indigo Sapphire",
-  "item.tutorialmod.raw_indigo_sapphire": "Raw Indigo Sapphire"
+  "item.tutorialmod.raw_indigo_sapphire": "Raw Indigo Sapphire",
+
+  "block.tutorialmod.indigo_sapphire_block": "Block of Indigo Sapphire",
+  "block.tutorialmod.indigo_sapphire_ore": "Indigo Sapphire Ore",
+  "block.tutorialmod.deepslate_indigo_sapphire_ore": "Deepslate Indigo Sapphire Ore",
+  "block.tutorialmod.raw_indigo_sapphire_block": "Block of Raw Indigo Sapphire"
 }

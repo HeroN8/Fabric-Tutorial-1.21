@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": { 
+      "item": "tutorialmod:raw_indigo_sapphire"
+    },
+    "result": {
+      "id": "tutorialmod:indigo_sapphire"
+    }
+}

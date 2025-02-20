@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "tutorialmod:indigo_sapphire_ore",
+        "tutorialmod:deepslate_indigo_sapphire_ore",
+        "tutorialmod:indigo_sapphire_block",
+        "tutorialmod:raw_indigo_sapphire_block"
+        ]
+}
